@@ -1,0 +1,7 @@
+{
+  "name": "Acreditodo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
